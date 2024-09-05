@@ -1,3 +1,3 @@
 # ShinyappSQC
 This is a ShinyLiveAppTest 
-See the app: https://adrianperaza24.github.io/ShinyappSQC/
+See the app: https://adrianenerya.github.io/ShinyappSQC/
